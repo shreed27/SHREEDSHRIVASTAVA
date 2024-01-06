@@ -1,4 +1,4 @@
-# PORTFOLIO.github.io
+# DATA SCIENTIST
 
 ##CONNECT= - www.linkedin.com/in/shreed-shrivastava-0a1791279
            - https://jaihowealthgrow.com/
